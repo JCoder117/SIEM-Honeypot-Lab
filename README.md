@@ -7,20 +7,19 @@
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Enviornments, Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
+- <b>Azure</b> 
+- <b>Sentinel</b>
+- <b>Powershell</b>
+- <b>Virtual Box</b>
+- <b>Windows 10</b>
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="1. Creating Honeypot.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>

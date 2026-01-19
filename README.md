@@ -35,8 +35,7 @@ Removing Firewall:  <br/>
 <br />
 <br />
 Allowing for traffic to discover vm:  <br/>
-<img src="5. Opening up the VM to be discovered by all traffic.png
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="5. Opening up the VM to be discovered by all traffic.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Allowing for traffic to discover vm pt.2:  <br/>

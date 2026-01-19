@@ -1,8 +1,8 @@
 <h1>SIEM Honeypot Lab</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
+
+A SIEM honeypot utilizing Azure Sentinel as a SIEM and connecting it to a live virtual machine acting as a honeypot. This honeypot allowed for the observation of live attacks by brute force from attackers around the world. In addition a custom powershell script to analyze the attackers geolocation which was then plotted in Azure Sentinal Map.
 
 <br />
 
